@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.516.1-jdk17
+FROM jenkins/inbound-agent:latest-jdk17
 
 USER root
 
